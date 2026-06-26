@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Puspalata01/Dsa/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Puspalata01/Dsa/tree/master/0014-longest-common-prefix) |
+| [1920-build-array-from-permutation](https://github.com/Puspalata01/Dsa/tree/master/1920-build-array-from-permutation) |
 ## String
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Puspalata01/Dsa/tree/master/0001-two-sum) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Puspalata01/Dsa/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
